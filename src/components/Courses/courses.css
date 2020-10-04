@@ -1,0 +1,18 @@
+.courseItem {
+    width: 31%;
+    margin: 10px;
+}
+
+.courseItem img {
+    width: 100%;
+}
+
+.courseItem .subTitle {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.courseItem .icon {
+    color: #ffffff;
+}

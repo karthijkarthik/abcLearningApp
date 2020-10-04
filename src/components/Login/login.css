@@ -1,0 +1,14 @@
+.welcomeText, .loginHintText {
+  float: left;
+  text-align: center;
+  width: 100%;
+}
+
+.welcomeText {
+  color: #A3011A;
+}
+
+.loginHintText {
+  font-size: 13px;
+  margin: 10px 0;
+}

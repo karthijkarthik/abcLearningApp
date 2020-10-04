@@ -1,0 +1,188 @@
+{
+  "users": [
+    {
+      "id": "123456",
+      "isActive": true,
+      "age": 24,
+      "name": "Karthik Jegan",
+      "gender": "M",
+      "password": "654321",
+      "email": "karthikjegan@emergent.com",
+      "phone": "+1 (831) 564-2190",
+      "enrolledCourse": [
+        3,
+        6,
+        1,
+        4,
+        7,
+        13,
+        17,
+        2
+      ]
+    },
+    {
+      "id": "246810",
+      "isActive": true,
+      "age": 24,
+      "name": "Kirsten Sellers",
+      "gender": "F",
+      "password": "018642",
+      "email": "kirstensellers@emergent.com",
+      "phone": "+1 (831) 564-2190",
+      "enrolledCourse": []
+    },
+    {
+      "id": "036912",
+      "isActive": true,
+      "age": 30,
+      "name": "Acosta Robbins",
+      "gender": "male",
+      "password": "219630",
+      "email": "acostarobbins@organica.com",
+      "phone": "+1 (882) 441-3367",
+      "enrolledCourse": []
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "The Ultimate Drawing Course - Beginner to Advanced",
+      "price": "455",
+      "category": "Design",
+      "photo": "/img/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Complete Blender Creator: Learn 3D Modelling for Beginners",
+      "price": "460",
+      "category": "Design",
+      "photo": "/img/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "After Effects CC 2020: Complete Course from Novice to Expert",
+      "price": "490",
+      "category": "Design",
+      "photo": "/img/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Character Art School: Complete Coloring and Painting Course",
+      "price": "600",
+      "category": "Design",
+      "photo": "/img/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Graphic Design Masterclass - Learn GREAT Design",
+      "price": "507",
+      "category": "Design",
+      "photo": "/img/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Angular - The Complete Guide (2020 Edition)",
+      "price": "460",
+      "category": "Development",
+      "photo": "/img/6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+      "price": "500",
+      "category": "Development",
+      "photo": "/img/7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "The Python Mega Course: Build 10 Real World Applications",
+      "price": "550",
+      "category": "Development",
+      "photo": "/img/8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "The Complete Node.js Developer Course (3rd Edition)",
+      "price": "450",
+      "category": "Development",
+      "photo": "/img/9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Vue - The Complete Guide (w/ Router, Vuex, Composition API)",
+      "price": "499",
+      "category": "Development",
+      "photo": "/img/10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "AWS Certified Solutions Architect - Associate 2020",
+      "price": "450",
+      "category": "IT & Software",
+      "photo": "/img/11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "The Complete Salesforce Classic Administrator Certification",
+      "price": "499",
+      "category": "IT & Software",
+      "photo": "/img/12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Scrum Certification Prep +Scrum Master+ Agile Scrum Training",
+      "price": "550",
+      "category": "IT & Software",
+      "photo": "/img/13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "The Complete Oracle SQL Certification Course",
+      "price": "450",
+      "category": "IT & Software",
+      "photo": "/img/14.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Learn DevOps: The Complete Kubernetes Course",
+      "price": "499",
+      "category": "IT & Software",
+      "photo": "/img/15.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Premiere Pro CC for Beginners: Video Editing in Premiere",
+      "price": "526",
+      "category": "Photography",
+      "photo": "/img/16.jpg"
+    },
+    {
+      "id": 17,
+      "name": "The Complete Video Production Bootcamp",
+      "price": "499",
+      "category": "Photography",
+      "photo": "/img/17.jpg"
+    },
+    {
+      "id": 18,
+      "name": "iPhone Photography | Take Professional Photos On iPhone",
+      "price": "481",
+      "category": "Photography",
+      "photo": "/img/18.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Cinematography Course: Shoot Better Video with Any Camera",
+      "price": "494",
+      "category": "Photography",
+      "photo": "/img/19.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Video Editing in DaVinci Resolve 16: Beginner to Advanced",
+      "price": "462",
+      "category": "Photography",
+      "photo": "/img/20.jpg"
+    }
+  ]
+}
